@@ -66,7 +66,11 @@ The dashboard explores five major areas:
 
 The project provided practical experience in Power BI, DAX, business intelligence, and interactive dashboard development.
 
-**Project Files:** `November - Power BI Analysis/Week-05 UCI Online Retail Dashboard/`
+**Dashboard Preview**
+
+![UCI Online Retail – Sales Overview](November%20-%20Power%20BI%20Analysis/Week-05%20UCI%20Online%20Retail%20Dashboard/Deliverables/Sales%20Overview.png)
+
+**Project Files:** [Explore the complete Week 5 Power BI project](November%20-%20Power%20BI%20Analysis/Week-05%20UCI%20Online%20Retail%20Dashboard/)
 
 ### December — SQL
 

@@ -29,7 +29,7 @@ This challenge is about building practical skills, improving problem-solving abi
 | Week 3 | Maven Fuzzy Factory Toy Store E-Commerce ETL | Completed |
 | Week 4 | UCI Online Retail – Data Cleaning and Preparation | Completed |
 
-**October Highlights**
+#### October Highlights
 
 October focused on developing practical Excel skills through data cleaning, transformation, validation, analysis, and reporting.
 
@@ -42,8 +42,9 @@ The phase concluded with a prepared dataset that would later become the foundati
 | Week | Project | Status |
 |---|---|---|
 | Week 5 | UCI Online Retail – Interactive Power BI Dashboard | Completed |
+| Week 6 | Brazilian E-Commerce Business Intelligence Analysis | Completed |
 
-**Week 5 Project: UCI Online Retail Dashboard**
+#### Week 5 Project: UCI Online Retail Dashboard
 
 Building on the data preparation completed in October, I continued working with the UCI Online Retail dataset to develop an interactive five-page Power BI dashboard.
 
@@ -56,7 +57,6 @@ The dashboard explores five major areas:
 5. Geographic Sales Analysis
 
 **Key Highlights**
-
 - Developed DAX measures for business performance indicators.
 - Created interactive KPI cards and visualisations.
 - Analysed revenue, orders, customers, products, and geographic performance.
@@ -64,13 +64,36 @@ The dashboard explores five major areas:
 - Designed a reset filters feature for improved user experience.
 - Documented the dashboard development process and final project.
 
-The project provided practical experience in Power BI, DAX, business intelligence, and interactive dashboard development.
+[Explore the complete Week 5 Power BI project](November%20-%20Power%20BI%20Analysis/Week-05%20UCI%20Online%20Retail%20Dashboard)
 
-**Dashboard Preview**
+#### Week 6 Project: Brazilian E-Commerce Business Intelligence Analysis
 
-![UCI Online Retail – Sales Overview](November%20-%20Power%20BI%20Analysis/Week-05%20UCI%20Online%20Retail%20Dashboard/Deliverables/Sales%20Overview.png)
+For this project, I worked with the Brazilian E-Commerce public dataset, exploring multiple datasets to uncover insights into sales performance, customer behaviour, product performance, and order delivery.
 
-**Project Files:** [Explore the complete Week 5 Power BI project](November%20-%20Power%20BI%20Analysis/Week-05%20UCI%20Online%20Retail%20Dashboard/)
+The project followed an end-to-end workflow involving Python and Pandas for initial data inspection and profiling, Power Query for data cleaning and transformation, and Power BI for data modelling, DAX calculations, analysis, and dashboard development.
+
+**Dashboard Pages**
+
+The final interactive dashboard consists of four pages:
+
+1. Executive Overview
+2. Customer Insights
+3. Sales & Product Analysis
+4. Order & Delivery Analysis
+
+**Key Highlights**
+- Performed initial dataset inspection and profiling using Python and Pandas.
+- Cleaned and transformed multiple datasets using Power Query.
+- Developed relationships and a structured data model.
+- Created and validated 25 DAX measures.
+- Designed four interactive dashboard pages.
+- Implemented synchronised slicers across the dashboard.
+- Explored sales trends, customer insights, product performance, and delivery operations.
+- Documented the project workflow and findings.
+
+**Project Files:** [Explore the complete Week 6 Brazilian E-Commerce project](November%20-%20Power%20BI%20Analysis/Week-06%20-%20Brazilian%20E-Commerce%20Business%20Intelligence%20Analysis)
+
+The project provided another opportunity to strengthen my skills in data preparation, business intelligence, analytical thinking, and interactive dashboard development.
 
 ### December — SQL
 
@@ -102,9 +125,9 @@ Throughout this challenge, I'm developing practical experience in:
 | Challenge Duration | 92 Days |
 | Start Date | October 1, 2026 |
 | Completed Months | 1 |
-| Completed Weekly Projects | 5 |
+| Completed Weekly Projects | 6 |
 | Current Learning Focus | Power BI |
-| Current Project | UCI Online Retail Dashboard |
+| Current Project | Brazilian E-Commerce Business Intelligence Analysis |
 
 ## Final Note
 

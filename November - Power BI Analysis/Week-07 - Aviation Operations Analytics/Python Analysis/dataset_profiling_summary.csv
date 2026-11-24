@@ -1,0 +1,14 @@
+File Name,Rows,Columns,Duplicate Rows,Missing Values
+us_ontime_2025_08.csv,44189,12,0,136
+us_ontime_2025_09.csv,31953,12,0,52
+us_ontime_2025_10.csv,40558,12,0,46
+us_ontime_2025_11.csv,47630,12,0,404
+us_ontime_2025_12.csv,44954,12,0,330
+us_ontime_2026_01.csv,42674,12,0,202
+us_ontime_2026_02.csv,37247,12,0,110
+us_ontime_2026_03.csv,45809,12,0,304
+us_ontime_2026_04.csv,45304,12,0,114
+us_ontime_2026_05.csv,40723,12,0,180
+us_ontime_2026_06.csv,39525,12,0,66
+us_ontime_2026_07.csv,33551,12,0,132
+us_ontime_2026_08.csv,48650,12,0,346

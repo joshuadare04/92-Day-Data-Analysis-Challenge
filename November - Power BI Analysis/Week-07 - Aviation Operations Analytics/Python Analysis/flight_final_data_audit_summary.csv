@@ -1,0 +1,29 @@
+Metric,Value
+Total monthly files,13.0
+Total records,542767.0
+Total columns,12.0
+Duplicate rows,0.0
+Duplicate flight-route identifiers,0.0
+Total missing values,2422.0
+Missing mean delay values,1211.0
+Missing median delay values,1211.0
+Negative flight counts,0.0
+Negative cancellation counts,0.0
+Negative diversion counts,0.0
+Negative on-time counts,0.0
+Negative late counts,0.0
+Unique airlines,14.0
+Unique origin airports,360.0
+Unique destination airports,360.0
+Scheduled flights,7652247.0
+Cancelled flights,139694.0
+Diverted flights,22835.0
+Operated flights,7489718.0
+On-time flights,5787585.0
+Flights delayed over 30 minutes,1105167.0
+Other arrival outcomes,596966.0
+Records with mean delay above 120 minutes,6136.0
+Records with mean delay above 600 minutes,207.0
+Maximum mean arrival delay,1683.0
+Airlines present in all months,12.0
+Airlines with incomplete monthly coverage,2.0

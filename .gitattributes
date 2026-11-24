@@ -1,1 +1,2 @@
 *.pbix filter=lfs diff=lfs merge=lfs -text
+November[[:space:]]-[[:space:]]Power[[:space:]]BI[[:space:]]Analysis/Week-07[[:space:]]-[[:space:]]Aviation[[:space:]]Operations[[:space:]]Analytics/Power[[:space:]]BI[[:space:]]Analysis/*.pbix filter=lfs diff=lfs merge=lfs -text
